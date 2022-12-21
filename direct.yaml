@@ -1,7 +1,9 @@
 payload:
+  - DOMAIN-SUFFIX,jmssub.net
   - DOMAIN-SUFFIX,synology.com
   - DOMAIN-SUFFIX,ulenium.cn
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,adobedtm.com
   - DOMAIN-SUFFIX,adobeccstatic.com
   - DOMAIN-SUFFIX,adobe.io
+  - DOMAIN-SUFFIX,adobesc.com
