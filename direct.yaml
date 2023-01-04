@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,adobeccstatic.com
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,adobesc.com
+  - IP-CIDR,223.111.68.152/32
