@@ -8,4 +8,5 @@ payload:
   - DOMAIN-SUFFIX,adobe.io
   - DOMAIN-SUFFIX,adobesc.com
   - DOMAIN-SUFFIX,adobelogin.com
+  - DOMAIN-SUFFIX,adobe.tt.omtrdc.net
   - IP-CIDR,223.111.68.152/32
