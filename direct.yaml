@@ -11,4 +11,5 @@ payload:
   - DOMAIN-SUFFIX,connect.ffc.adobeoobe.com
   - DOMAIN-SUFFIX,adobe.tt.omtrdc.net
   - DOMAIN-SUFFIX,substance3d.com
+  - DOMAIN-SUFFIX,taobao.com
   - IP-CIDR,223.111.68.152/32
