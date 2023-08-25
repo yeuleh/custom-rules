@@ -13,5 +13,6 @@ payload:
   - DOMAIN-SUFFIX,taobao.com
   - DOMAIN-SUFFIX,baidupcs.com
   - DOMAIN-SUFFIX,rqd.qq.com
+  - DOMAIN-SUFFIX,meeting.tencent.com
   - DOMAIN-SUFFIX,teams.microsoftonline.cn
   - IP-CIDR,223.111.68.152/32
