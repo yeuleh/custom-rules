@@ -20,3 +20,5 @@ DOMAIN-SUFFIX,azure.cn,DIRECT
 DOMAIN-SUFFIX,cdn.office.net,DIRECT
 DOMAIN-SUFFIX,azurewebsite.net,DIRECT
 DOMAIN-SUFFIX,jira.toyotanmc.com,DIRECT
+DOMAIN-SUFFIX,kimi.com,DIRECT
+DOMAIN-SUFFIX,moonshot.cn,DIRECT
