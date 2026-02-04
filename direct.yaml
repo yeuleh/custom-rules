@@ -20,4 +20,6 @@ payload:
   - DOMAIN-SUFFIX,cdn.office.net
   - DOMAIN-SUFFIX,azurewebsite.net
   - DOMAIN-SUFFIX,jira.toyotanmc.com
+  - DOMAIN-SUFFIX,kimi.com
+  - DOMAIN-SUFFIX,moonshot.cn
   - IP-CIDR,223.111.68.152/32
